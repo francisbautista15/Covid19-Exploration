@@ -3,7 +3,7 @@
 EXPLORATION OF COVID19 DATA USING SQL
 Data Used: https://ourworldindata.org/coronavirus#explore-the-global-situation
 
-Skills Highlighted: CTE, JOINS, VIEWm Aggregate Functions, Windows Functions, Converting Data Type
+Skills Highlighted: CTE, JOINS, VIEWm Aggregate Functions, Windows Functions, Converting Data Type.
 
 */
 
